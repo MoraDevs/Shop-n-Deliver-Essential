@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\"Backend environment for the mobile app of Shop-n-Deliver-Essenrials",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoraDevs/Shop-n-Deliver-Essentials.git"
+  },
+  "author": "Mora-Devs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoraDevs/Shop-n-Deliver-Essentials/issues"
+  },
+  "homepage": "https://github.com/MoraDevs/Shop-n-Deliver-Essentials#readme"
+}
