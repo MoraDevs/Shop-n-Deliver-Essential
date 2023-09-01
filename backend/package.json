@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "\"Backend environment for the mobile app of Shop-n-Deliver-Essenrials",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "npm start"
   },
